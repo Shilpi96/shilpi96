@@ -31,7 +31,7 @@ My research focuses on understanding the physical processes behind solar flares,
 ### Software & Tools
 
 - Git / GitHub
-- Linux
-- LaTeX
+- Linux, Windows & Mac
+- LaTeX & bash scripting
 - High-performance computing (HPC)
 - Open-source scientific software development
